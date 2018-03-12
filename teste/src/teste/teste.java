@@ -7,6 +7,8 @@ public class teste {
 		System.out.println("Olá mundo!");
 		
 		System.out.println("Olá outra vez!");
+		
+		System.out.println("Olá novamente!");
 
 	}
 
